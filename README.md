@@ -4,7 +4,7 @@
 
 SpaceGame is a space shooting game created as part of the blog tutorial on creating a complete game for BlackBerry 10 step by step.
 
-**This respository contains completed project files for every step of the tutorial.** 
+**This respository contains completed project files for every step of the tutorial and the assets (Reources.zip)** 
 
 
 **Author:**
